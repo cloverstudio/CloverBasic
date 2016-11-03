@@ -1,0 +1,16 @@
+{
+  "name": "CloverBasic",
+  "version": "0.0.1",
+  "author": {
+    "name": "Clover Studio Ltd"
+  },
+  "description": "CloverBasic is Javascript implementation of Basic interpreter",
+  "main": "src/app.js",
+  "private": false,
+  "devDependencies": {
+    "browserify": "^13.1.1",
+    "gulp": "^3.9.1",
+    "vinyl-source-stream": "^1.1.0"
+  },
+  "dependencies": {}
+}
